@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: antonio.drodriguez
+Build-Jdk: 15.0.2
+Implementation-Title: Crm-Pet-Clinic
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.crm
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Crm-Pet-Clinic
+Created-By: Maven Integration for Eclipse
+
